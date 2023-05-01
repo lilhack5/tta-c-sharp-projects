@@ -1,0 +1,7 @@
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe.config
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.exe
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\bin\Debug\myConsoleProjects.cs.pdb
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.AssemblyReference.cache
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.exe
+C:\Users\bry_h\Desktop\Basic_C#_Programs\myConsoleProjects.cs\obj\Debug\myConsoleProjects.cs.pdb
