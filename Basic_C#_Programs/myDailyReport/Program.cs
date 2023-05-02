@@ -19,11 +19,11 @@ namespace myDailyReport
             Console.WriteLine("I am on course " + course + ".");// Show what course the user inputed
 
             Console.WriteLine("What page number?");// Asks the user what page number they are on
-            string page = Console.ReadLine();// Allows the user to input the page they are on
+            int page = Console.ReadLine();// Allows the user to input the page they are on
             Console.WriteLine("The page is " + page + ".");// Shows what page the user inputed
 
             Console.WriteLine("Do you need help with anything? Please answer true or false.");//Ask the user if they need any help.
-            string help = Console.ReadLine();// Allows the user to input true or false
+            bool help = Console.ReadLine();// Allows the user to input true or false
             Console.WriteLine("Do I need help? " + help);// shows if the user needs help or not
             
             Console.WriteLine("Were there any positive feedback you'd like to provide? Please give specifics");// Asks user if there were any feedback they would like to give
@@ -31,7 +31,7 @@ namespace myDailyReport
             Console.WriteLine(feedback);// Shows the users feedback
 
             Console.WriteLine("How many hours did you study?");// Asks user how many hours they studied
-            string study = Console.ReadLine();// Allows user to input the hours studied
+            int study = Console.ReadLine();// Allows user to input the hours studied
             Console.WriteLine("I studied for " + study + " hours.");// Shows how many hours the user studied
 
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great day!");// After the user answers how long they studied this will show below hours studied
