@@ -1,0 +1,7 @@
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\bin\Debug\comparison.exe.config
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\bin\Debug\comparison.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\bin\Debug\comparison.pdb
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\obj\Debug\comparison.csproj.AssemblyReference.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\obj\Debug\comparison.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\obj\Debug\comparison.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\comparison\obj\Debug\comparison.pdb
