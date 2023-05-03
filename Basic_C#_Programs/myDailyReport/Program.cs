@@ -23,7 +23,7 @@ namespace myDailyReport
             int pageNum = Convert.ToInt32(page);
             Console.WriteLine("The page is " + pageNum + ".");// Shows what page the user inputed
 
-            string needHelp = true; //Creates variable needHelp
+            bool needHelp = true; //Creates variable needHelp
 
             if (needHelp)// if they need help then write you need help.
                 { 
