@@ -1,0 +1,7 @@
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\bin\Debug\mathInputs.exe.config
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\bin\Debug\mathInputs.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\bin\Debug\mathInputs.pdb
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\obj\Debug\mathInputs.csproj.AssemblyReference.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\obj\Debug\mathInputs.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\obj\Debug\mathInputs.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\mathInputs\obj\Debug\mathInputs.pdb
