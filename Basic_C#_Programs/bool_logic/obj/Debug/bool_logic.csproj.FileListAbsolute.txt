@@ -1,0 +1,7 @@
+C:\Users\bry_h\source\repos\bool_logic\obj\Debug\bool_logic.csproj.AssemblyReference.cache
+C:\Users\bry_h\source\repos\bool_logic\obj\Debug\bool_logic.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\source\repos\bool_logic\bin\Debug\bool_logic.exe.config
+C:\Users\bry_h\source\repos\bool_logic\bin\Debug\bool_logic.exe
+C:\Users\bry_h\source\repos\bool_logic\bin\Debug\bool_logic.pdb
+C:\Users\bry_h\source\repos\bool_logic\obj\Debug\bool_logic.exe
+C:\Users\bry_h\source\repos\bool_logic\obj\Debug\bool_logic.pdb
