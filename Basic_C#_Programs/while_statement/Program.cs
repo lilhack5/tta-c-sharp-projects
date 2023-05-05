@@ -8,6 +8,29 @@ namespace while_statement
         static void Main(string[] args)
         {
             Console.WriteLine("Pick a number.");// shows on the console for the user to see
+            int num = Convert.ToInt32(Console.ReadLine());//allows the user to type a number
+            bool isGuess = false;
+
+            while (!isGuess) ;
+            {
+                switch (num)
+                {
+                    case 55:
+                        Console.WriteLine("You guessed 55. try again");// if 55 was guessed this is shown                        
+                        break;
+                    case 25:
+                        Console.WriteLine("You guessed 25. try again.");//if 25 is guessed then this is shown                       
+                        break;
+                    case 5:
+                        Console.WriteLine("You guessed 5. that is correct");// if 5 is guessed then they got it right                        
+                        break;
+                    default:
+                        Console.WriteLine("you are wrong.");//anything other than the 3 above typed this is shown
+                        break;
+                }
+            }
+
+            Console.WriteLine("Pick a number.");// shows on the console for the user to see
             int  number = Convert.ToInt32(Console.ReadLine());//allows the user to type a number
             bool isGuessed = number == 5;
 
@@ -33,7 +56,7 @@ namespace while_statement
                         break;
                 }
             }
-            while (isGuessed);
+            while (!isGuessed);
 
                 Console.Read();
         }
