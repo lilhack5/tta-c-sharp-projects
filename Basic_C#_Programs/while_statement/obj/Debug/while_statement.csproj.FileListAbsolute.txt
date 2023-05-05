@@ -1,0 +1,2 @@
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\while_statement\obj\Debug\while_statement.csproj.AssemblyReference.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\while_statement\obj\Debug\while_statement.csproj.CoreCompileInputs.cache
