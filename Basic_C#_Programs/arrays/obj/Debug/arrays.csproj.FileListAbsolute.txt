@@ -1,7 +1,0 @@
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\bin\Debug\arrays.exe.config
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\bin\Debug\arrays.exe
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\bin\Debug\arrays.pdb
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\obj\Debug\arrays.exe
-C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\arrays\obj\Debug\arrays.pdb

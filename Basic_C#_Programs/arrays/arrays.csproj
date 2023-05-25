@@ -4,7 +4,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7F111C63-AC8E-46DF-AA2A-E39A1E4208FF}</ProjectGuid>
+    <ProjectGuid>{F3A12CD2-46AE-4021-8F10-D90EE4AF42E4}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <RootNamespace>arrays</RootNamespace>
     <AssemblyName>arrays</AssemblyName>
