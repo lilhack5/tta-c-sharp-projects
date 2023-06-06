@@ -10,20 +10,19 @@ namespace iteration
         {
             string[] names = { "Billy", "Bob", "Joe" };// created a string of names
             Console.WriteLine("Please enter a name.");//this will show when you start the program.
-            string user = Console.ReadLine();// allows the user to enter a name.
-
-            foreach (string name in names)
+            string name = Console.ReadLine();
+            for(int h = 0; h<names.Length; h++)
             {
-                if (name == user)
-                {
-                    Console.WriteLine(user);//adds the users name to the array
-                }
+                names[h] += name;//
             }
-
-            foreach (string nameLoop in names)
+           
+            
+            for(int w = 0; w < names.Length; w++)
             {
-                Console.WriteLine(nameLoop + user);//writes the array onto the console
+                Console.WriteLine(names[w]);//prints the list of the array to the console.
             }
+            
+
 
             for (int i = 0; i < 5; i++)// had i decreasing and it starting at 5 and going down it will never reach 5 so switched i-- to i++.
             {
@@ -78,7 +77,7 @@ namespace iteration
 
 
 
-            Console.Read();
+            Console.ReadLine();
         }
     }
 }
