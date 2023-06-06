@@ -1,0 +1,7 @@
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\bin\Debug\stringsandintergers.exe.config
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\bin\Debug\stringsandintergers.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\bin\Debug\stringsandintergers.pdb
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\obj\Debug\stringsandintergers.csproj.AssemblyReference.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\obj\Debug\stringsandintergers.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\obj\Debug\stringsandintergers.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\stringsandintergers\obj\Debug\stringsandintergers.pdb
