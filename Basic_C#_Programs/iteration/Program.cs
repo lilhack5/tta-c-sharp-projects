@@ -76,19 +76,19 @@ namespace iteration
             List<string> heaven = new List<string>();//created an empty list
 
 
-            for (int h = 0; h < saves.Count; h++)
+            
             foreach (string save in saves)
             {
-                if (!saves[h].Contains(save))//if the current element in the original list is contained in the second list
+                if (!heaven.Contains(save))//if the current element in the original list is contained in the second list
 
                 {
-                    Console.WriteLine(saves[h] + " is a duplicate.");
+                    Console.WriteLine($"{save} is unique");
+                    heaven.Add(save);
                 }
 
                 else
                 {
-                    Console.WriteLine(saves[h] + " is unique.");
-                    heaven.Add(saves[h]);
+                    Console.WriteLine($"{save} is a duplicate");                    
                 }
             }
 
