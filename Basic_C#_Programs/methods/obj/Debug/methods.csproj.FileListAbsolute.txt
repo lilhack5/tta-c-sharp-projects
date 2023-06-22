@@ -1,0 +1,7 @@
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\bin\Debug\methods.exe.config
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\bin\Debug\methods.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\bin\Debug\methods.pdb
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\obj\Debug\methods.exe
+C:\Users\bry_h\OneDrive\Documents\GitHub\tta-c-sharp-projects\Basic_C#_Programs\methods\obj\Debug\methods.pdb
